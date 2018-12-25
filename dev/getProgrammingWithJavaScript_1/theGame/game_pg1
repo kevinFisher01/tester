@@ -1,0 +1,27 @@
+<!DOCTYPE  html>
+
+//Chapter 5 section 5.3.1 pg.65
+/*var player1;
+var player2;
+var showPlayerPlace;
+
+showPlayerPlace = function(playName, playerPlace) {
+  console.log(playerName + "is in " + playerPlace);
+};
+
+player1 = {
+  name: "Kendra",
+  place: "The Dungeon if Doom";
+  health: 50;
+};
+
+player2 = {
+  name: "Dax";
+  place: "The Old Library";
+  health: 40;
+};
+
+showPlayerPlace(player1.name,player1.place)
+}
+*/
+//above code from "Get Programming With JavaScript"
